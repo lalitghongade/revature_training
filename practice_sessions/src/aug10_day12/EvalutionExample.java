@@ -40,7 +40,7 @@ public class EvalutionExample {
 		   //Displaying the the numbers less than 7
 		   System.out.println("Numbers less than 7 in TreeSet: ");     
 		   while (it.hasNext()){
-			   //printed in same line
+			//printed in same line
 		   System.out.print(it.next() + " ");
 		   }
 		   }    
