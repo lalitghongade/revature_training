@@ -26,7 +26,10 @@ public class EvalutionExample {
 		   ts.add(8);
 		   ts.add(9);
 		   ts.add(10);
-		     
+		   
+		   //checking number 7 is in list or not
+		   System.out.println("treeset containd number 7 :"+ts.contains(7));
+		   ;
 		   // Find numbers less than 7
 		   ths = (TreeSet)ts.headSet(7);  
 
@@ -41,4 +44,7 @@ public class EvalutionExample {
 		   System.out.print(it.next() + " ");
 		   }
 		   }    
+	
+	
+	
 		}
