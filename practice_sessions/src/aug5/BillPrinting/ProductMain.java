@@ -1,4 +1,4 @@
-package BillPrinting;
+package aug5.BillPrinting;
 // Task 2 - Calculate total and print bill.
 //          Item Name          Price    Qty.    Line Total
 //          Line Total = Price * Qty.

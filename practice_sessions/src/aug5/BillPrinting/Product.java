@@ -1,4 +1,4 @@
-package BillPrinting;
+package aug5.BillPrinting;
 
 public class Product {
 

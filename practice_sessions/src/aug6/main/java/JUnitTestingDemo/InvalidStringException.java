@@ -1,4 +1,4 @@
-package JUnitTestingDemo;
+package aug6.main.java.JUnitTestingDemo;
 
 public class InvalidStringException extends Exception{
     public InvalidStringException() {

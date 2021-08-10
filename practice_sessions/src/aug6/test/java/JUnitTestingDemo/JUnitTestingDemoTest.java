@@ -1,4 +1,4 @@
-package JUnitTestingDemo;
+package aug6.test.java.JUnitTestingDemo;
 
 import org.junit.jupiter.api.Test;
 

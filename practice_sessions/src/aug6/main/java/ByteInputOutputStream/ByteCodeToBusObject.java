@@ -1,4 +1,4 @@
-package ByteInputOutputStream;
+package aug6.main.java.ByteInputOutputStream;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

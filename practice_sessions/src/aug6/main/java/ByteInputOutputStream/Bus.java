@@ -1,4 +1,4 @@
-package ByteInputOutputStream;
+package aug6.main.java.ByteInputOutputStream;
 /*
  * 	// Task 1 - Find the minimum price in 'Xyz Travels'
 	// Task 2 - Calculate total and print bill.

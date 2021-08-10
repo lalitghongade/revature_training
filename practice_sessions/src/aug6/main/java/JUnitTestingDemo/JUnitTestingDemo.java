@@ -1,4 +1,5 @@
-package JUnitTestingDemo;
+package aug6.main.java.JUnitTestingDemo;
+
 
 public class JUnitTestingDemo {
     public static void main(String[] args) throws InvalidStringException {
