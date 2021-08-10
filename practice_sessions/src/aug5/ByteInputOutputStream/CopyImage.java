@@ -5,9 +5,9 @@ import java.io.*;
 public class CopyImage {
     public static void main(String[] args) {
         try {
-            FileInputStream fin = new FileInputStream("E:\\Revature\\RevatureRepository\\Week2\\Day4\\src\\ByteInputOutputStream\\img\\image.jpg");
+            FileInputStream fin = new FileInputStream("/home/lala/Documents/revature/my_practice/practice_sessions/src/aug5/ByteInputOutputStream/img/image.jpg");
             //BufferedInputStream bin = new BufferedInputStream(fin);
-            FileOutputStream fout = new FileOutputStream("E:\\Revature\\RevatureRepository\\Week2\\Day4\\src\\copyImg.jpg");
+            FileOutputStream fout = new FileOutputStream("/home/lala/Documents/revature/my_practice/practice_sessions/src/aug5/ByteInputOutputStream/img/copyImg.jpg");
             //BufferedOutputStream bout = new BufferedOutputStream(fout);
 
             int byteInt = fin.read();

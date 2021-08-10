@@ -10,7 +10,7 @@ import java.util.List;
 public class ByteCodeToBusObject {
     public static void main(String[] args) {
         try {
-            FileInputStream fin = new FileInputStream("E:\\Revature\\RevatureRepository\\Week2\\Day5\\src\\main\\java\\ByteInputOutputStream\\byteCodeOutput\\BusObjectByteCode.ser");
+            FileInputStream fin = new FileInputStream("/home/lala/Documents/revature/my_practice/practice_sessions/src/aug6/main/java/ByteInputOutputStream/byteCodeOutput/BusObjectByteCode.ser");
             ObjectInputStream os = new ObjectInputStream(fin);
 
             List<Bus> buses = (ArrayList<Bus>) os.readObject();
