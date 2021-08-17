@@ -6,3 +6,7 @@
 [main] 2021-08-17 13:57:18 INFO  com.lala.PlayerMain  - Info level log message
 [main] 2021-08-17 13:57:18 DEBUG com.lala.PlayerMain  - Debug level log message
 [main] 2021-08-17 13:57:18 ERROR com.lala.PlayerMain  - Error level log message
+[main] 2021-08-17 15:56:16 DEBUG com.lala.PlayerMain  - choice == 0
+[main] 2021-08-17 15:56:16 INFO  com.lala.PlayerMain  - Info level log message
+[main] 2021-08-17 15:56:16 DEBUG com.lala.PlayerMain  - Debug level log message
+[main] 2021-08-17 15:56:16 ERROR com.lala.PlayerMain  - Error level log message

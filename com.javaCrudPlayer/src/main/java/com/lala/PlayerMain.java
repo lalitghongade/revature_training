@@ -1,7 +1,7 @@
 package com.lala;
-
+import java.io.Console;
+import java.util.Arrays;
 import java.util.Scanner;
-
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -20,10 +20,17 @@ public class PlayerMain {
 		
 		//Scanner object for taking input
 		Scanner scanner = new Scanner(System.in);
-		int choice =0;
-		log.debug("choice == "+choice);
 		
-		  log.info("Info level log message");
+		
+		//failed trails of string masking in command line
+		//String password =new jline.ConsoleReader().readLine(new Character('*'));;
+		//log.debug("choice == "+password);
+		//Console console = System.console() ;
+
+		//char [] password = console.readPassword("Enter password: ");
+		//System.out.println("Password was: " + Arrays.toString(password));
+		//Arrays.fill(password,' ');
+		//log.info("Info level log message"+password);
 	      log.debug("Debug level log message");
 	      log.error("Error level log message");
 		
