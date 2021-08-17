@@ -1,13 +1,13 @@
 package exception;
 
-public class BussinessException extends Exception{
+public class BusinessException extends Exception{
 
-	public BussinessException() {
+	public BusinessException() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
 
-	public BussinessException(String arg0) {
+	public BusinessException(String arg0) {
 		super(arg0);
 		// TODO Auto-generated constructor stub
 	}
