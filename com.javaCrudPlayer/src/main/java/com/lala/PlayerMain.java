@@ -30,7 +30,8 @@ public class PlayerMain {
 		//char [] password = console.readPassword("Enter password: ");
 		//System.out.println("Password was: " + Arrays.toString(password));
 		//Arrays.fill(password,' ');
-		//log.info("Info level log message"+password);
+		
+		  //log.info("Info level log message"+password);
 	      log.debug("Debug level log message");
 	      log.error("Error level log message");
 		

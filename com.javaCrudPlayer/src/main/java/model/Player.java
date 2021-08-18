@@ -10,7 +10,7 @@ public class Player { private int id;
 		private Team team;
 		
 		
-		public Player(int id, String name, int age, String gender, String sportsName, String city, long contact) {
+		public Player(int id, String name, int age, String gender, String sportsName, String city, long contact,Team team) {
 			super();
 			this.id = id;
 			this.name = name;
@@ -19,6 +19,14 @@ public class Player { private int id;
 			this.sportsName = sportsName;
 			this.city = city;
 			this.contact = contact;
+			this.team=team;
+		}
+		
+		public Team getTeam() {
+			return team;
+		}
+		public void setTeam(Team team) {
+			this.team=team;
 		}
 		
 		
@@ -91,12 +99,14 @@ public class Player { private int id;
 			this.contact = contact;
 		}
 
-
 		@Override
 		public String toString() {
 			return "Player [id=" + id + ", name=" + name + ", age=" + age + ", gender=" + gender + ", sportsName="
-					+ sportsName + ", city=" + city + ", contact=" + contact + "]";
+					+ sportsName + ", city=" + city + ", contact=" + contact + ", team=" + team + "]";
 		}
+
+
+		
 
 		
 		
