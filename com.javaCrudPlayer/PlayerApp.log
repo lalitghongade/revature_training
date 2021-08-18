@@ -10,3 +10,69 @@
 [main] 2021-08-17 15:56:16 INFO  com.lala.PlayerMain  - Info level log message
 [main] 2021-08-17 15:56:16 DEBUG com.lala.PlayerMain  - Debug level log message
 [main] 2021-08-17 15:56:16 ERROR com.lala.PlayerMain  - Error level log message
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - 
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  -     Welcome To Main Menu
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - Select Any 1 option...
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - 1) Create Player
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - 2) Update Player
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - 3) Delete Player
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - 4) Get All Player
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - 5) Search Player
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - 6) Exit
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:56:50 INFO  com.lala.PlayerMain  - Enter your choice : 
+[main] 2021-08-18 11:56:55 INFO  com.lala.PlayerMain  - Enter Player details one-by-one...
+[main] 2021-08-18 11:56:55 INFO  com.lala.PlayerMain  - Enter Player ID : 
+[main] 2021-08-18 11:57:07 INFO  com.lala.PlayerMain  - Enter Player name : 
+[main] 2021-08-18 11:57:10 INFO  com.lala.PlayerMain  - Enter Player age : 
+[main] 2021-08-18 11:57:12 INFO  com.lala.PlayerMain  - Enter Player gender : 
+[main] 2021-08-18 11:57:15 INFO  com.lala.PlayerMain  - Enter Player city : 
+[main] 2021-08-18 11:57:18 INFO  com.lala.PlayerMain  - Enter Player sports name : 
+[main] 2021-08-18 11:57:23 INFO  com.lala.PlayerMain  - Enter Player contact : 
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - Enter Team Id : 
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  -        IPL Team's List
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - 1) MI
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - 2) RCB
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - 3) SRH
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - 4) KKR
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - 5) CSK
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:57:30 INFO  com.lala.PlayerMain  - Select player team : 
+[main] 2021-08-18 11:57:36 INFO  com.lala.PlayerMain  - Player created successfully!!!
+[main] 2021-08-18 11:57:36 INFO  com.lala.PlayerMain  - fetching data....please wait.....
+[main] 2021-08-18 11:57:38 INFO  com.lala.PlayerMain  - Player [id=201, name=lala, age=23, gender=m, sportsName=cricket, city=pune, contact=8669136987, team=Team [teamId=1, teamName=MI]]
+[main] 2021-08-18 11:57:38 INFO  com.lala.PlayerMain  - 
+Returning to Main Menu...
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - 
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  -     Welcome To Main Menu
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - Select Any 1 option...
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - 1) Create Player
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - 2) Update Player
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - 3) Delete Player
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - 4) Get All Player
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - 5) Search Player
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - 6) Exit
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:57:40 INFO  com.lala.PlayerMain  - Enter your choice : 
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  -        Find a Player
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 1) Search by their Id
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 2) Search by their Name
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 3) Search by their Age
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 4) Search by their Gender
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 5) Search by their City
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 6) Search by their SportsName
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 7) Search by their Contact
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 8) Search by their Team
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - 9) Return to Main Menu
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - Enter your choice : 
+[main] 2021-08-18 11:57:54 INFO  com.lala.PlayerMain  - Enter player name : 
