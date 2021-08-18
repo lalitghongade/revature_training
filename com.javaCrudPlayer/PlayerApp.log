@@ -76,3 +76,72 @@ Returning to Main Menu...
 [main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - -----------------------------
 [main] 2021-08-18 11:57:50 INFO  com.lala.PlayerMain  - Enter your choice : 
 [main] 2021-08-18 11:57:54 INFO  com.lala.PlayerMain  - Enter player name : 
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - 
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  -     Welcome To Main Menu
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - Select Any 1 option...
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - 1) Create Player
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - 2) Update Player
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - 3) Delete Player
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - 4) Get All Player
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - 5) Search Player
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - 6) Exit
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:08 INFO  com.lala.PlayerMain  - Enter your choice : 
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  -        Find a Player
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 1) Search by their Id
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 2) Search by their Name
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 3) Search by their Age
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 4) Search by their Gender
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 5) Search by their City
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 6) Search by their SportsName
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 7) Search by their Contact
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 8) Search by their Team
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - 9) Return to Main Menu
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:13 INFO  com.lala.PlayerMain  - Enter your choice : 
+[main] 2021-08-18 12:06:17 INFO  com.lala.PlayerMain  - Enter player ID  : 
+[main] 2021-08-18 12:06:22 WARN  com.lala.PlayerMain  - We couldn't find any matches for 200.
+Double check your search for any typos or spelling errors or try a different search term.
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 
+Returning to Find a Player Menu...
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  -        Find a Player
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 1) Search by their Id
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 2) Search by their Name
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 3) Search by their Age
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 4) Search by their Gender
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 5) Search by their City
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 6) Search by their SportsName
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 7) Search by their Contact
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 8) Search by their Team
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - 9) Return to Main Menu
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:22 INFO  com.lala.PlayerMain  - Enter your choice : 
+[main] 2021-08-18 12:06:43 INFO  com.lala.PlayerMain  - Enter player ID  : 
+[main] 2021-08-18 12:06:46 INFO  com.lala.PlayerMain  - Player with 201 found successfully
+[main] 2021-08-18 12:06:46 INFO  com.lala.PlayerMain  - fetching data....please wait.....
+[main] 2021-08-18 12:06:48 INFO  com.lala.PlayerMain  - Player [id=201, name=lala, age=23, gender=m, sportsName=cricket, city=pune, contact=8669136987, team=Team [teamId=0, teamName=mi]]
+[main] 2021-08-18 12:06:48 INFO  com.lala.PlayerMain  - 
+Returning to Find a Player Menu...
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  -        Find a Player
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 1) Search by their Id
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 2) Search by their Name
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 3) Search by their Age
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 4) Search by their Gender
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 5) Search by their City
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 6) Search by their SportsName
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 7) Search by their Contact
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 8) Search by their Team
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - 9) Return to Main Menu
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - -----------------------------
+[main] 2021-08-18 12:06:50 INFO  com.lala.PlayerMain  - Enter your choice : 
