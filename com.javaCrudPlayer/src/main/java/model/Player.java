@@ -1,6 +1,7 @@
 package model;
 
-public class Player { private int id;
+public class Player { 
+		private int id;
 		private String name;
 		private int age;
 		private String gender;
@@ -9,6 +10,10 @@ public class Player { private int id;
 		private long contact;
 		private Team team;
 		
+		
+		public Player() {
+			
+		}
 		
 		public Player(int id, String name, int age, String gender, String sportsName, String city, long contact,Team team) {
 			super();

@@ -7,7 +7,7 @@ import model.Player;
 
 public interface PlayerSearchDAO {
 	
-		public Player searchById(int i) throws BusinessException;
+		public Player searchById(int id) throws BusinessException;
 	    public Player searchByContact(long contact) throws BusinessException;
 	    public List<Player> searchByName(String name) throws BusinessException;
 	    public List<Player> searchByAge(int age) throws BusinessException;
