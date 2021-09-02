@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Script : Task 3</title>
+</head>
+
+<body>
+    <h1>Find Countries</h1>
+    Name: <input type="text" id="age">
+    <div id="message"></div>
+
+    <script>
+        var age = document.getElementById("age");
+        var message = document.getElementById("message");
+        age.addEventListener("keyup", displayText);
+
+        function displayText() {
+            if (isNaN(age.value)) {
+                message.innerText = "Enter a valid number.";
+            } if (age.value == "") {
+                message.innerText = "";
+            } else if (age.value >= 18) {
+                message.innerText = "Eligible to vote.";
+            } else if (age.value < 18) {
+                message.innerText = "NOT eligible to vote.";
+            }
+        }
+    </script>
+</body>
+
+</html>

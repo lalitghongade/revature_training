@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Script : Task 3</title>
+</head>
+
+<body>
+    <h1>Anime Quotes</h1>
+    <center><button id="quote_btn">get one </button> </center>
+    <div id="message"></div>
+
+    <script>
+    var message = document.getElementById("message");
+
+    fetch('https://animechan.vercel.app/api/random')
+    .then(response => response.json())
+    .then(quote =>message.innerText=quote.quote)
+    
+   
+
+/*
+      var Q_btn = document.getElementById("qoute_btn");
+        Q_btn.addEventListener("click",getData);
+
+  async function getData(word) {
+        const response = await fetch(`https://animechan.vercel.app/api/random`);
+        const data = await response.json();
+        console.log(data)
+    // if empty result 
+        if (!data.length) {
+       message.innerText = ' No result found';
+        }
+
+ // Result found 
+        loading.style.display = 'none';
+        let defination = data.qoute;
+        message.innerText = defination;
+
+
+    }*/
+    </script>
+</body>
+
+</html>
