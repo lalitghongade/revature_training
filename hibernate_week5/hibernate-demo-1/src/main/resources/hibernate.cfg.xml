@@ -13,13 +13,13 @@
         <property name="show_sql">true</property>
         <property name="format_sql">true</property>
         
-        <property name="hbm2ddl.auto">create</property>
+        <property name="hbm2ddl.auto">update</property>
         
         <!--  
         you will be giving Model/POJO/Persistance class entry also here
         other DB configuration like connection pool, cache memory etc can also be given here  
         -->
-       <mapping class="model.Student"/>
+       <mapping class="model.Player"/>
        
     </session-factory>
 </hibernate-configuration>
