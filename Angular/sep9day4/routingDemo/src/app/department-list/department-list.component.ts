@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-department-list',
   template: `
-    <div style="text-align=center">
+    <div style="text-align:center">
     <p>
       department-list works!
     </p>
