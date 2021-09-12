@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule ,routingComponents} from './app-routing.module';
 import { AppComponent } from './app.component';
+import { RegisterComponent } from './register/register.component';
 
 
 
@@ -11,6 +12,7 @@ import { AppComponent } from './app.component';
   declarations: [
     AppComponent,
     routingComponents,
+    RegisterComponent,
     
 
   ],
