@@ -11,7 +11,7 @@ import {Router} from '@angular/router';
 
   <ul class="items">
     <li (click)="onSelect(department)" *ngFor="let department of departments">
-      <span >{{department.id}}</span>{{department.name}}
+      <span >{{department.id}}</span> {{department.name}}
 </li>
 </ul>
 </div>
@@ -21,11 +21,11 @@ import {Router} from '@angular/router';
 export class DepartmentListComponent implements OnInit {
 
   departments=[
-    {"id":1,"name":"Angular"},
-    {"id":2,"name":"Node"},
-    {"id":3,"name":"mongo"},
-    {"id":4,"name":"Ruby"},
-    {"id":5,"name":"bootStrap"}
+    {"id":1,"name":"Computer"},
+    {"id":2,"name":"IT"},
+    {"id":3,"name":"Mech"},
+    {"id":4,"name":"Civil"},
+    {"id":5,"name":"electrical"}
 ]
 
   constructor(private router:Router) { }
